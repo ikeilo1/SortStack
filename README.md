@@ -69,7 +69,7 @@ This will create a `docs/` directory containing the generated HTML documentation
 ## How to Access the Project
 1. Clone the repository from GitHub:
     ```sh
-    git clone https://github.com/ikeilo/SortStack.git
+    git clone https://github.com/ikeilo1/SortStack.git
     ```
 2. Navigate to the project directory:
     ```sh
