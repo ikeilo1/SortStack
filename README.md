@@ -7,8 +7,7 @@
 - [Generating Javadoc](#step-4-generating-javadoc)
 - [How to Access the Project](#how-to-access-the-project)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Description
 Java application designed to manage a collection of integers using a stack data structure. The application allows users to input integer values, collects them in a 'stack', and enables sorting and displaying of the stack's contents. The program is structured to facilitate easy code maintenance by separating concerns using auxiliary classes like:
